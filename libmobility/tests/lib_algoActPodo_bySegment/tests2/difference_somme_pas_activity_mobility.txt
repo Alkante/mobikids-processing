@@ -1,0 +1,4 @@
+./activity_mobility -s 500  -t 5e6  tests2/0020_090170_012400_olivier_station_marche_voiture_marche_accelero.csv
+254 4 4647554.18 28.26 703989360
+./activity_mobility -s 500   tests2/0020_090170_012400_olivier_station_marche_voiture_marche_accelero.csv
+254 1 4647554.18 100.00 100.00 40.76 28.26 703989360
